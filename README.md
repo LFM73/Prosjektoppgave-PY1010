@@ -7,7 +7,7 @@ Dette prosjektet analyserer supportdata fra MORSE i uke 24. Løsningen er implem
 
 ### 📦 Hvordan bruke prosjektet
 
-1. Åpne notebooken `support_dashboard_uke24.ipynb` i Jupyter
+1. Åpne notebooken `SupportDashBoard.ipynb` i Jupyter
 2. Sørg for at Excel-filen `support_uke_24.xlsx` ligger i samme mappe
 3. Installer nødvendige pakker (hvis du ikke har dem allerede):
 
